@@ -14,7 +14,7 @@ import butterknife.ButterKnife;
 /**
  * 使用AnimationDrawable的补间动画
  */
-public class AnimationDrawableActivity extends AppCompatActivity implements View.OnClickListener {
+public class AnimationActivity extends AppCompatActivity implements View.OnClickListener {
     private static final String LYJ_TAG = "LYJ_AnimationActivity";
     @BindView(R.id.image_view_test_animation)
     ImageView animationImageView;

@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.btn_test_animation_drawable:
-                startInsideActivity(AnimationDrawableActivity.class);
+                startInsideActivity(AnimationActivity.class);
                 break;
             case R.id.btn_test_property_animator:
                 startInsideActivity(PropertyAnimatorActivity.class);

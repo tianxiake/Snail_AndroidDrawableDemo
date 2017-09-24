@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".AnimationDrawableActivity"
+            android:name=".AnimationActivity"
             android:label="AnimationDrawableActivity">
         </activity>
         <activity

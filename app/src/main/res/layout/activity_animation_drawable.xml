@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context="com.nebulaera.myandroidtestdemo.AnimationDrawableActivity">
+    tools:context="com.nebulaera.myandroidtestdemo.AnimationActivity">
 
     <ImageView
         android:background="#ff0000"
