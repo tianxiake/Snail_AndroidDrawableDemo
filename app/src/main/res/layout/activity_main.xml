@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.nebulaera.myandroidtestdemo.MainActivity">
+
+    <Button
+        android:id="@+id/btn_test_animation_drawable"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="AnimationDrawable"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_test_property_animator"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="PropertyAnimator"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_test_raw_xml"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="使用原始的Xml文件"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_test_custom_attribute"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="自定义属性"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_test_use_raw_source"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="使用原始资源"
+        android:textAllCaps="false"/>
+
+
+</LinearLayout>

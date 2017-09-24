@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book
+        price="198"
+        出版日期="2017.8.16">第一行代码
+    </book>
+    <book
+        price="188"
+        出版日期="2017.8.16">第二行代码
+    </book>
+    <book
+        price="178"
+        出版日期="2017.8.16">第三行代码
+    </book>
+    <book
+        price="168"
+        出版日期="2017.8.16">第四行代码
+    </book>
+
+</books>
